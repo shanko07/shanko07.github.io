@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Home Page
 
-# GitHub Project Pages
+### GitHub Project Pages
 [Capstone Design](https://github.com/shanko07/Capstone)
 
 [Bluetooth OBD Display](https://github.com/shanko07/ELM327Dash)
