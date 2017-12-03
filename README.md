@@ -5,6 +5,6 @@
 
 [Bluetooth OBD Display](https://github.com/shanko07/ELM327Dash)
 
-[Digital Storage Oscilloscope](https://github.com/shanko07/DSO-HKUST)
+[Digital Storage Oscilloscope](https://shanko07.github.io/DSO-HKUST)
 
-[Wearable Sensor Network](https://github.com/shanko07/Rutgers-ICEMAN)
+[Wearable Sensor Network](https://shanko07.github.io/Rutgers-ICEMAN)
