@@ -1,6 +1,10 @@
 ## Welcome to my GitHub Home Page
 
-### GitHub Project Pages
+### GitHub and Other Project Pages
+[Wedding Project in reactjs](http://wedding.janeshanko.com) and [website](http://wedding.janeshanko.com)
+
+[Engagement Website](http://janeshanko.com)
+
 [Capstone Design](https://shanko07.github.io/Capstone)
 
 [Bluetooth OBD Display](https://shanko07.github.io/ELM327Dash)
