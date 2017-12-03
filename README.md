@@ -1,5 +1,7 @@
 ## Welcome to my GitHub Home Page
 
+![alt text](Formal3.png "Me")
+
 ### GitHub and Other Project Pages
 [Wedding Project in reactjs](https://github.com/shanko07/wedding-janeshanko-com) and [website](http://wedding.janeshanko.com)
 
