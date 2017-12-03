@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Home Page
 
 ### GitHub and Other Project Pages
-[Wedding Project in reactjs](http://wedding.janeshanko.com) and [website](http://wedding.janeshanko.com)
+[Wedding Project in reactjs](https://github.com/shanko07/wedding-janeshanko-com) and [website](http://wedding.janeshanko.com)
 
 [Engagement Website](http://janeshanko.com)
 
