@@ -3,7 +3,9 @@
 ![alt text](Formal3.png "Me")
 
 ### GitHub and Other Project Pages
-[Wedding Project in reactjs](https://github.com/shanko07/wedding-janeshanko-com) and [website](http://wedding.janeshanko.com)
+[Breakout game in javascript](https://github.com/shanko07/breakout) and [live demo](http://webdesign.janeshanko.com/games)
+
+[Wedding Project with reactjs](https://github.com/shanko07/wedding-janeshanko-com) and [website](http://wedding.janeshanko.com)
 
 [Engagement Website](http://janeshanko.com)
 
