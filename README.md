@@ -3,7 +3,7 @@
 ![alt text](Formal3.png "Me")
 
 ### GitHub and Other Project Pages
-[Breakout game in javascript](https://github.com/shanko07/breakout) and [live demo](http://webdesign.janeshanko.com/games)
+[Breakout game in javascript](https://shanko07.github.io/breakout) and [live demo](http://webdesign.janeshanko.com/games)
 
 [Wedding Project with reactjs](https://github.com/shanko07/wedding-janeshanko-com) and [website](http://wedding.janeshanko.com)
 
