@@ -9,9 +9,9 @@ Columbia University DIY Ventilator Challenge [Submission](./Shet_ColumbiaVentila
 
 Coauthored Machine Learning [Research Paper](http://users.rowan.edu/~bouaynaya/IEEE_Radar_2020.pdf)
 
-[Breakout game in javascript](https://shanko07.github.io/breakout) and [live demo](http://webdesign.janeshanko.com/games)
+[Breakout Game](http://webdesign.janeshanko.com/games) and [Code](https://shanko07.github.io/breakout)
 
-[Wedding Project with reactjs](https://github.com/shanko07/wedding-janeshanko-com) and [website](http://wedding.janeshanko.com)
+[Wedding Website](http://wedding.janeshanko.com) and [Code](https://github.com/shanko07/wedding-janeshanko-com)
 
 [Engagement Website](http://janeshanko.com)
 
